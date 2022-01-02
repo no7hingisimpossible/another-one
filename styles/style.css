@@ -1,0 +1,17 @@
+h1{
+    color: rebeccapurple;
+    text-align: center;
+}
+body{
+    background-color: steelblue;
+}
+.paragraph {
+    background: blueviolet;
+    width: 600px;
+    height: 100px;
+    border: 2px solid white;
+    margin: 0 auto;
+    text-align: justify;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
