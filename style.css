@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+}
+div{
+    background-color: blueviolet;
+    width: 600px;
+    height: 50px;
+    border: 2px solid yellow;
+    border-radius: 2px;
+}
